@@ -6,5 +6,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Trail examples" />
+    <orderEntry type="module" module-name="Python class test" />
+    <orderEntry type="module" module-name="w3schools" />
+    <orderEntry type="module" module-name="DSA Python" />
   </component>
 </module>

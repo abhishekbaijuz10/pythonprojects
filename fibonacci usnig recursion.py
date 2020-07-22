@@ -7,8 +7,8 @@ def recur_fibo(n):
 
 
 nterms = int(input("Enter the +ve integer"))
-if nterms <= 10:
-    print("Enter a prosiive number :")
+if nterms <= 0:
+    print("Wrong number")
 else:
     print("Terms are :")
     for i in range(nterms):

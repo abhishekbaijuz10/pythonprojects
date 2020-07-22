@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DSA Python/.idea/DSA Python.iml" filepath="$PROJECT_DIR$/../DSA Python/.idea/DSA Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Programiz examples.iml" filepath="$PROJECT_DIR$/.idea/Programiz examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python class test/.idea/Python class test.iml" filepath="$PROJECT_DIR$/../Python class test/.idea/Python class test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Trail examples/.idea/Trail examples.iml" filepath="$PROJECT_DIR$/../Trail examples/.idea/Trail examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../w3schools/.idea/w3schools.iml" filepath="$PROJECT_DIR$/../w3schools/.idea/w3schools.iml" />
     </modules>
   </component>
 </project>
